@@ -1,0 +1,9 @@
+{
+    "require": {
+        "ext-json": "*",
+        "symfony/serializer": "v5.4.42",
+        "symfony/property-access": "v5.4.40",
+        "doctrine/annotations": "2.0.1",
+        "symfony/property-info": "v5.4.42"
+    }
+}
